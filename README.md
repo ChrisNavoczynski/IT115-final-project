@@ -6,4 +6,4 @@ Vist the CONTRIBUTING.md page for more details!
 [CONTRIBUTING Page](https://github.com/ChrisNavoczynski/IT115-final-project/blob/main/CONTRIBUTING.md)
 
 Visit my GitHub Project Page!
-[Project Page]()
+[Project Page](https://chrisnavoczynski.github.io/IT115-final-project/index.html)
