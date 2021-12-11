@@ -1,5 +1,8 @@
 # Welcome to my Contribution Page
 
+## Contributor
+* Christopher Navoczynski
+
 ## Files Added to the final project
 * CONTRIBUTING.md  (_The file you are in right now!_)
 * README.md  (_An overview of the respoitory_)
@@ -16,3 +19,13 @@
 * URL for the Project Page
 * Screen shot of a Bug Report showing Super-linter results
 * Screen shot of the test code in production on a web server (or S3)
+
+## Code of Conduct:
+* Update any additions to this repo in the CONTRIBUTING.md file
+
+## Check for Bugs
+
+
+## Additions to this Repo:
+* Project page
+* Super-Linter
