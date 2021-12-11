@@ -13,7 +13,7 @@
 * test.html  (_File provided by instructor_)
 * local1.html  (_File added with a garbage.html that was reverted_)
 
-## Deliverables:
+## Deliverables for Final Project:
 * URL for the repository
 * Sample commands from the local repo, including a reset or revert
 * URL for the Project Page
@@ -22,6 +22,10 @@
 
 ## Code of Conduct:
 * Update any additions to this repo in the CONTRIBUTING.md file
+
+## Testing:
+Test the latest version of Final Project
+* [Project Page](https://chrisnavoczynski.github.io/IT115-final-project/)
 
 ## Check for Bugs
 * Utilize the [Issues Tab](https://github.com/ChrisNavoczynski/IT115-final-project/issues) to report a bug
