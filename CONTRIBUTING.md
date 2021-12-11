@@ -1,9 +1,9 @@
 # Welcome to my Contribution Page
 
-## Contributor
+## Contributor:
 * Christopher Navoczynski
 
-## Files Added to the final project
+## Files Added to the final project:
 * CONTRIBUTING.md  (_The file you are in right now!_)
 * README.md  (_An overview of the respoitory_)
 * LICENSE  (_Chosen License version for this repo_)
@@ -25,9 +25,9 @@
 
 ## Testing:
 Test the latest version of Final Project
-* [Project Page](https://chrisnavoczynski.github.io/IT115-final-project/)
+* [Project Page](https://chrisnavoczynski.github.io/IT115-final-project/index.html)
 
-## Check for Bugs
+## Check for Bugs:
 * Utilize the [Issues Tab](https://github.com/ChrisNavoczynski/IT115-final-project/issues) to report a bug
 * Utilize the [Projects Tab]() to categorize issue by priority level
 
