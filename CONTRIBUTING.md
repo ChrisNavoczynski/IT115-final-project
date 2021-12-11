@@ -9,3 +9,10 @@
 * demostyle.css  (_File provided by instructor_)
 * test.html  (_File provided by instructor_)
 * local1.html  (_File added with a garbage.html that was reverted_)
+
+## Deliverables:
+* URL for the repository
+* Sample commands from the local repo, including a reset or revert
+* URL for the Project Page
+* Screen shot of a Bug Report showing Super-linter results
+* Screen shot of the test code in production on a web server (or S3)
