@@ -24,7 +24,7 @@
 * Update any additions to this repo in the CONTRIBUTING.md file
 
 ## Testing:
-Test the latest version of Final Project
+Test the latest version of the repo's Project Page
 * [Project Page](https://chrisnavoczynski.github.io/IT115-final-project/index.html)
 
 ## Check for Bugs:
