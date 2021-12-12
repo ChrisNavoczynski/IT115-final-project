@@ -29,7 +29,7 @@ Test the latest version of the repo's Project Page
 
 ## Check for Bugs:
 * Utilize the [Issues Tab](https://github.com/ChrisNavoczynski/IT115-final-project/issues) to report a bug
-* Utilize the [Projects Tab]() to categorize issue by priority level
+* Utilize the [Projects Tab](https://github.com/ChrisNavoczynski/IT115-final-project/projects/1) to categorize issue by priority level
 
 ## Additions to this Repo:
 * Project page
