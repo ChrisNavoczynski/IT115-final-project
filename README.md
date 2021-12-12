@@ -3,7 +3,7 @@
 ## This is the Final Project for Christopher Navoczynski
 
 Vist the CONTRIBUTING.md page for more details!
-<a href = "https://github.com/ChrisNavoczynski/IT115-final-project/blob/main/CONTRIBUTING.md" target="blank">CONTRIBUTING Page</a>
+<a href="https://github.com/ChrisNavoczynski/IT115-final-project/blob/main/CONTRIBUTING.md" target="blank">CONTRIBUTING Page</a>
 
 Visit my GitHub Project Page!
 [Project Page](https://chrisnavoczynski.github.io/IT115-final-project/index.html)
